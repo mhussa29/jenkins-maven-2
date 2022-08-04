@@ -7,5 +7,7 @@
 #Create a jenkins pipeline and used the link above to create a sample maven project on local repo
 #C:\Users\mhussa29\Jenkins-Maven\my-app
 #Make sure the master dir have pom.xml file
-#Go to Jenkins, link the github repo and compile the program
+#Go to Jenkins, link the github repo and compile build the program
 #SUCCESS!!
+#For review of code
+#https://www.youtube.com/watch?v=CGh6Ah5qg-g&ab_channel=CameronMcKenzie
