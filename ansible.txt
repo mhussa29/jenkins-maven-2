@@ -1,0 +1,11 @@
+Ansible Notes:
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04
+
+1 main node
+
+Several slave nodes
+
+Use ansible to provision slave nodes (for test, dev and dep)
+
+/etc/ansible/hosts for inventory file. 
