@@ -1,0 +1,17 @@
+Docker important scripts
+
+https://www.tecmint.com/install-docker-and-run-docker-containers-in-ubuntu/
+
+sudo docker info
+
+docker
+
+sudo docker search centos
+
+docker pull centos
+
+sudo docker images
+
+docker run centos cat /etc/issue
+
+etc..........
